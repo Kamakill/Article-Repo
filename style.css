@@ -1,0 +1,50 @@
+.main-section {
+  position: relative;
+  top: 0px;
+  margin: 10px;
+  padding: 150px;
+  background-image: url("https://i2.wp.com/friendsofcitypark.org/wp-content/uploads/2013/05/guide-cover.jpg?w=420");
+  background-size: cover;
+  background-repeat: no repeat;
+  background-attachment: fixed;
+  background-size: 100% 100%;
+}
+h2 {
+  text-align: center;
+  font-size: 30px;
+  position: relative;
+  bottom: 100px;
+  padding: 10px;
+  margin: 10px;
+}
+#img-caption {
+  position: relative;
+  text-align: center;
+  font-size: 18px;
+  bottom: 25px;
+}
+
+#img-div {
+  position: relative;
+  padding: 10px;
+  margin: 10px;
+  top: 10px; 
+}
+.responsive-img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  position: relative;
+  left: 70px;
+}
+p {
+  font-size: 22px;
+}
+#footer {
+  position: relative;
+  text-align: center;
+  font-size: 18px;
+  top: 20px;
+  padding: 10px;
+  margin: 10px;
+}
